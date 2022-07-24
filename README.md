@@ -1,5 +1,4 @@
-I'am no longer maintainig this project. And will archive it later.  
-So please look there https://github.com/Befzz/blender3d_import_psk_psa/issues/88  
+Forked from Befzz for archive purposes, who no longer maintains the addon. 
 -------
 
 Blender3D Import psk psa addon
